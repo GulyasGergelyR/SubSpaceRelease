@@ -1,0 +1,1 @@
+java -Djava.library.path="%CD%\natives" -jar SubSpace.jar
